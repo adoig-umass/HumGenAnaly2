@@ -1,0 +1,20 @@
+---
+title: "index.Rmd"
+author: "Andrew Doig"
+date: "2024-11-03"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Thank you for helping streamline this tool!
+
+I have been wanting to use github to track my data analysis. Regrettably, I am a seriously disorganized mind and anything that can be done to streamline tools and keep things flowing is useful. Integrating github directly into Rstudio is awesome.
+
+![Every day of my life in grad school](Designer.jpeg) 
+
+## Previous Method
+
+Previously I had downloaded the desktop tool also, and its ability to seamlessly push material copied into the relevant directory is super useful. I hope to use this in my research.
