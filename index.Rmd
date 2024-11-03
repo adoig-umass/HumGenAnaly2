@@ -9,8 +9,10 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Thank you for helping streamline this tool!
+# Click link below!
+You probably really want to go here, instead. https://github.com/adoig-umass/HumGenAnaly2
 
+## Anything to help calm the storm in my mind
 I have been wanting to use github to track my data analysis. Regrettably, I am a seriously disorganized mind and anything that can be done to streamline tools and keep things flowing is useful. Integrating github directly into Rstudio is awesome.
 
 ![Every day of my life in grad school](Designer.jpeg) 
@@ -18,3 +20,11 @@ I have been wanting to use github to track my data analysis. Regrettably, I am a
 ## Previous Method
 
 Previously I had downloaded the desktop tool also, and its ability to seamlessly push material copied into the relevant directory is super useful. I hope to use this in my research.
+
+## Note
+The visual editor is terrible and buggy compared to the source editor, at least
+on my windows pc.
+
+## Additional Note
+I found that I had to fill the checkboxes next to the files that I wanted to 
+uploade called stage. Then I caould push them. 
